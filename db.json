@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "firstName": "navid",
+      "lastName": "pazooki",
+      "email": "t@t.com",
+      "phone": "09192756757"
+    },
+    {
+      "id": "db7e",
+      "firstName": "Amir hossein",
+      "lastName": "Goudarzi",
+      "email": "amirgoudarzi83@outlook.com",
+      "phone": "09362197191"
+    }
+  ],
+  "musics": [
+    {
+      "title": "musicName",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, aspernatur. Laborum ipsa nihil distinctio vero neque, totam vitae fugit dolores.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJHdLegOgLdzsqykbdKfG67aAF-6hS8EH0Q&s"
+    },
+    {
+      "title": "musicName",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, aspernatur. Laborum ipsa nihil distinctio vero neque, totam vitae fugit dolores.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-U3Ah9ZSRxV_VY-lxko-ODfwUVuoMTCu-Fw&s"
+    },
+    {
+      "title": "musicName",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, aspernatur. Laborum ipsa nihil distinctio vero neque, totam vitae fugit dolores.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2THxMDspyOlR21QIJMoc2ubpFXKfVLnr-iw&s"
+    },
+    {
+      "title": "musicName",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam, aspernatur. Laborum ipsa nihil distinctio vero neque, totam vitae fugit dolores.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVJQ6VOHZ_dgSga_v9HzUS7abYUZ_WuQSCA&s"
+    }
+  ]
+}
